@@ -1,0 +1,8 @@
+# Ignore environment variables or secret files
+.env
+config.json
+
+# Ignore sensitive files
+project.pem
+client.properties
+COMMANDS TO UPLOAD FILE ON ECS THROGH SHL.txt
