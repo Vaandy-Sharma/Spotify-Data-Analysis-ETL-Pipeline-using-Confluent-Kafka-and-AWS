@@ -6,7 +6,7 @@ This project creates a data pipeline that collects, processes, and analyzes stre
 ---
 
 ## Project Architecture and Tools Used
-<img src="image.png" alt="Alt text" width="500"/>
+<img src="image01.jpg" alt="Alt text" width="500"/>
 ### 1. Producer
 - **Description**: A Kafka producer streams data (simulating Spotify data) continuously into Kafka topics. The data includes track information and other relevant attributes.
 - **Technology**: Confluent Kafka Producer on AWS.
