@@ -10,7 +10,7 @@ This project creates a data pipeline that collects, processes, and analyzes stre
 
 
 
-              ![Spotify Tableau Dashboard]
+## Spotify Tableau Dashboard
 <img src="Dashboard.jpg" alt="Alt text" width="500"/>
 
 ### 1. Producer
