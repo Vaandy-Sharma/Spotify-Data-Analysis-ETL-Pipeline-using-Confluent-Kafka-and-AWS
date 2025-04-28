@@ -8,6 +8,11 @@ This project creates a data pipeline that collects, processes, and analyzes stre
 ## Project Architecture and Tools Used
 <img src="image01.jpg" alt="Alt text" width="500"/>
 
+
+
+              ![Spotify Tableau Dashboard]
+<img src="Dashboard.jpg" alt="Alt text" width="500"/>
+
 ### 1. Producer
 - **Description**: A Kafka producer streams data (simulating Spotify data) continuously into Kafka topics. The data includes track information and other relevant attributes.
 - **Technology**: Confluent Kafka Producer on AWS.
@@ -88,6 +93,6 @@ This project creates a data pipeline that collects, processes, and analyzes stre
 ## Project Summary
 This project showcases a full end-to-end data pipeline leveraging real-time data streaming with Confluent Kafka, efficient storage practices, and scalable querying techniques, demonstrating expertise in data engineering and AWS.
 
-![Spotify Tableau Dashboard]
+              ![Spotify Tableau Dashboard]
 <img src="Dashboard.jpg" alt="Alt text" width="500"/>
 
