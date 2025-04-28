@@ -88,5 +88,6 @@ This project creates a data pipeline that collects, processes, and analyzes stre
 ## Project Summary
 This project showcases a full end-to-end data pipeline leveraging real-time data streaming with Confluent Kafka, efficient storage practices, and scalable querying techniques, demonstrating expertise in data engineering and AWS.
 
-![Spotify Tableau Dashboard](./images/dashboard_sample.png)
+![Spotify Tableau Dashboard]
+<img src="Dashboard.jpg" alt="Alt text" width="500"/>
 
